@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Ko-Ko.mp3";		
+f[2]	= "02 Take the a Train.mp3";		
+f[3]	= "03 God Bless the Child.mp3";		
+f[4]	= "04 April In Paris.mp3";		
+f[5]	= "05 Body & Soul.mp3";		
+f[6]	= "06 Moanin' [Live].mp3";		
+f[7]	= "07 Sing, Sing, Sing.mp3";		
+f[8]	= "08 Lullaby of Birdland.mp3";		
+f[9]	= "09 King Porter Stomp.mp3";		
+f[10]	= "10 You'd Be So Nice To Come Home To.mp3";		
+f[11]	= "11 Seven Come Eleven.mp3";		
+f[12]	= "12 West Coast Blues.mp3";		
+f[13]	= "13 Django.mp3";		
+f[14]	= "14 Darn That Dream.mp3";		
+f[15]	= "15 My Funny Valentine.mp3";		
