@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Blue In Green.mp3";		
+f[2]	= "02 My Favorite Things.mp3";		
+f[3]	= "03 Round Midnight.mp3";		
+f[4]	= "04 Mack the Knife [Live].mp3";		
+f[5]	= "05 Willow Weep For Me.mp3";		
+f[6]	= "06 Lonely Women.mp3";		
+f[7]	= "07 Tiger Rag.mp3";		
+f[8]	= "08 Tenderly.mp3";		
+f[9]	= "09 Nuages.mp3";		
+f[10]	= "10 Ode To Charlie Parker.mp3";		
+f[11]	= "11 Stardust.mp3";		
+f[12]	= "12 Begin the Beguine.mp3";		
+f[13]	= "13 At the Jazz Band Ball.mp3";		
+f[14]	= "14 I Remember You.mp3";		
+f[15]	= "15 In the Mood.mp3";		
